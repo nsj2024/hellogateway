@@ -40,5 +40,5 @@ management:
       enabled: true
        
 server:
-  port: 8070
+  port: 8000
   
